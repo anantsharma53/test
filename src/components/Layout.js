@@ -7,7 +7,7 @@ const Layout = () => {
     <div className='main-container'>
       <AuthStatus />
       <header className="app-title">
-        <h2>Anant Todo App </h2>
+        <h2>Anant To-Do App </h2>
       </header>
 
       <Outlet />
